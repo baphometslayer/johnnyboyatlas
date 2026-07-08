@@ -93,5 +93,6 @@ All external contributors to WP Engine products must have a signed Contributor L
 1. [Submit your name and email](https://wpeng.in/cla/)
 2. 📝 Sign the CLA emailed to you
 3. 📥 Receive copy of signed CLA
+4. Testing file change
 
 ❤️ Thank you for helping us fulfill our legal obligations in order to continue empowering builders through headless WordPress.
